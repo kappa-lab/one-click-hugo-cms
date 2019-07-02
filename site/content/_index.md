@@ -1,5 +1,5 @@
 ---
-title: "Kappa-Lab Grate Coffee"
+title: "[DEV] Kappa-Lab Grate Coffee"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
